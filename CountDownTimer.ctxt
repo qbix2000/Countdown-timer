@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=time
+comment0.target=void\ setTime(int)
+comment1.params=
+comment1.target=void\ start()
+comment2.params=
+comment2.target=void\ stop()
+comment3.params=changer
+comment3.target=void\ addTimeDisplay(TimeChangable)
+comment4.params=
+comment4.target=void\ update()
+comment5.params=
+comment5.target=int\ calculateTimeRemaining()
+comment6.params=
+comment6.target=int\ currentTimeInSeconds()
+numComments=7

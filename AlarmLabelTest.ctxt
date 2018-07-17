@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AlarmLabel\ buildAlarmLabel()
+comment1.params=
+comment1.target=void\ getTextWithNoTimeSetReturns07Colon00()
+comment2.params=
+comment2.target=void\ getTextWithATimeSetTo0800Retutns0800()
+comment3.params=
+comment3.target=void\ getTextWithATimeSetTo635Returns635()
+comment4.params=
+comment4.target=void\ getTextWithATimeSetTo0Returns0Colon00()
+comment5.params=
+comment5.target=void\ getFontReturnsFontOfSize150()
+numComments=6

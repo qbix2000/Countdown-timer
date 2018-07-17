@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StartButton()
+comment1.params=
+comment1.target=void\ setFont()
+comment2.params=
+comment2.target=void\ setColour()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=starter
+comment4.target=void\ addStartable(Startable)
+comment5.params=
+comment5.target=void\ stopItems()
+comment6.params=
+comment6.target=void\ startItems()
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=buttonName\ changeValue
+comment0.target=TimeAdjusterButton(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ setFont()
+comment2.params=
+comment2.target=void\ setColour()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=timer
+comment4.target=void\ addTimer(TimeChangable)
+numComments=5

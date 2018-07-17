@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TimerLabel()
+comment1.params=
+comment1.target=void\ setFont()
+comment2.params=
+comment2.target=void\ setColour()
+comment3.params=time
+comment3.target=void\ changeTime(int)
+numComments=4

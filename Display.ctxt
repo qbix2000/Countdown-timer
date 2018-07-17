@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Display()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Display\n
+comment1.params=
+comment1.target=void\ createGUI()
+comment2.params=
+comment2.target=void\ createTimerLabel()
+comment3.params=
+comment3.target=void\ createTimeLabel()
+comment4.params=
+comment4.target=void\ addTimeAdjusterButtons()
+comment5.params=buttonText\ x\ y\ adjustableAmount
+comment5.target=void\ addTimeAdjusterButton(java.lang.String,\ int,\ int,\ int)
+comment6.params=
+comment6.target=void\ addStartButton()
+comment7.params=
+comment7.target=void\ displayGUI()
+numComments=8

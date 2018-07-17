@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setUp()
+comment0.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment1.params=changeValue
+comment1.target=void\ changeTime(int)
+comment2.params=
+comment2.target=TimeAdjusterButton\ buildButton()
+comment3.params=
+comment3.target=void\ initSetsTheNameOfTheButton()
+comment4.params=
+comment4.target=void\ actionPerformedCallsChangeTime()
+numComments=5

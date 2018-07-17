@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AlarmLabel()
+comment1.params=
+comment1.target=void\ setFont()
+comment2.params=
+comment2.target=void\ setColour()
+comment3.params=timer
+comment3.target=void\ addTimer(TimeSettable)
+comment4.params=time
+comment4.target=void\ changeTime(int)
+comment5.params=
+comment5.target=java.lang.String\ alarmToString()
+comment6.params=
+comment6.target=void\ setAlarmTime()
+numComments=7
